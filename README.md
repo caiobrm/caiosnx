@@ -1,5 +1,4 @@
-### Hi, I'm Caio Barros
-22y electrical engineer & dev & ethical hacker 
+23y electrical engineer & dev & ethical hacker 
  - I’m currently working on a On-Board computer for a sounding rocket.
  - Working on ARM embedded systems
 
