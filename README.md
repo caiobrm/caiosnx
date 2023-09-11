@@ -1,4 +1,4 @@
-23y electrical engineer & dev & ethical hacker 
+24y electrical engineer & dev & ethical hacker 
  - I’m currently working on a On-Board computer for a sounding rocket.
  - Working on ARM embedded systems
 
