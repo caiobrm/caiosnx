@@ -1,6 +1,4 @@
-24y electrical engineer & dev /
- - I’m currently working on a On-Board computer for a sounding rocket.
- - Working on ARM embedded systems
+25y electrical engineer & dev /
 
 <div align="center">
   <a href="https://github.com/caiobrm">
