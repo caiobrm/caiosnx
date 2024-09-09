@@ -1,4 +1,4 @@
-25y electrical engineer & dev /
+25y electrical engineer & dev 
 
 <div align="center">
   <a href="https://github.com/caiobrm">
